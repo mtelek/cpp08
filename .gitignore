@@ -37,6 +37,7 @@
 *.out
 *.app
 easyfind
+span
 
 # debug information files
 *.dwo
