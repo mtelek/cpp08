@@ -5,7 +5,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+*.objs
 
 # Precompiled Headers
 *.gch
@@ -36,6 +36,10 @@
 *.exe
 *.out
 *.app
+easyfind
 
 # debug information files
 *.dwo
+
+#vscode
+.vscode/
