@@ -38,6 +38,7 @@
 *.app
 easyfind
 span
+mutant
 
 # debug information files
 *.dwo
